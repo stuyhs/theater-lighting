@@ -1,4 +1,4 @@
-# Murray Kahn Theater in Stuyvesant High Shool
+# Murray Kahn Theater
 
 The Theater currently has a nice complex and intricate lighting system. This repository pretty much contains documentation and materials on the system.
 
