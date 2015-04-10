@@ -1,5 +1,7 @@
 # Murray Kahn Theater
 
+![Our Lighting Board](/img/stuy-lighting.jpg)
+
 The Theater currently has a nice complex and intricate lighting system. This repository pretty much contains documentation and materials on the system.
 
 ## Lighting Board
